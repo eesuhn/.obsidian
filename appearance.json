@@ -1,6 +1,7 @@
 {
   "cssTheme": "Minimal",
-  "baseFontSize": 14,
+  "baseFontSize": 13,
   "showViewHeader": true,
-  "accentColor": "#bb86fc"
+  "accentColor": "#bb86fc",
+  "baseFontSizeAction": true
 }
