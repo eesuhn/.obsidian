@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60cefeff67194897",
+        "id": "d43136e01ef9e38a",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a5c8117b7ba608",
+            "id": "9ca52aa70cdf1b72",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -94,7 +94,58 @@
   "right": {
     "id": "2df0b9954a1d3cf7",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "dcaa648f34e52e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a056a74957f8ca2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4e4a99972f5aec68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "28d556507b639f54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -110,7 +161,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c9a5c8117b7ba608",
+  "active": "9ca52aa70cdf1b72",
   "lastOpenFiles": [
   ]
 }
