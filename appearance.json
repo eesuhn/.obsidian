@@ -3,5 +3,8 @@
   "baseFontSize": 13,
   "showViewHeader": true,
   "accentColor": "#bb86fc",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "editor-view"
+  ]
 }

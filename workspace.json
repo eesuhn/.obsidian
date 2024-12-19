@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35212c20ea2106dd",
+        "id": "60cefeff67194897",
         "type": "tabs",
-        "dimension": 27.408854166666664,
         "children": [
           {
-            "id": "5075ae750fb5c70d",
+            "id": "c9a5c8117b7ba608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-dump/Structure.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Structure"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7e3b8fdcf873143a",
-        "type": "tabs",
-        "dimension": 72.59114583333333,
-        "children": [
-          {
-            "id": "1b680739c0d64731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-dump/Prompts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "New tab"
             }
           }
         ]
@@ -84,6 +58,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "502cb20c3f06cf57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -96,11 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cp-dump/Prompts.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Prompts"
+              "title": "Outline"
             }
           }
         ]
@@ -112,33 +94,7 @@
   "right": {
     "id": "2df0b9954a1d3cf7",
     "type": "split",
-    "children": [
-      {
-        "id": "89434ca8ccc74c14",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b3f0cfbec7a08511",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "cp-dump/Prompts.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Prompts"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -154,14 +110,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1b680739c0d64731",
+  "active": "c9a5c8117b7ba608",
   "lastOpenFiles": [
-    "cp-dump/Structure.md",
-    "cp-dump/Prompts.md",
-    "Untitled.md",
-    "cp-dump",
-    "Untitled.canvas",
-    "2024-12-18.md",
-    "Welcome.md"
   ]
 }
