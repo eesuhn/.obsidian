@@ -1,3 +1,12 @@
+body {
+  --h1-color: #BB86FC;
+  --h2-color: #BB86FC;
+  --h3-color: #BB86FC;
+  --h4-color: #BB86FC;
+  --h5-color: #BB86FC;
+  --h6-color: #BB86FC;
+}
+
 .markdown-source-view, .markdown-preview-view {
   max-width: 1000px;
   margin: auto;
