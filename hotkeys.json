@@ -1,12 +1,4 @@
 {
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "\\"
-    }
-  ],
   "editor:insert-link": [],
   "switcher:open": [
     {
@@ -71,6 +63,24 @@
         "Alt"
       ],
       "key": "ArrowDown"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
     }
   ]
 }

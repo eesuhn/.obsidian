@@ -6,5 +6,6 @@
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "editor-view"
-  ]
+  ],
+  "textFontFamily": ""
 }

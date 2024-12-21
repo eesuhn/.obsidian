@@ -5,6 +5,9 @@ body {
   --h4-color: #BB86FC;
   --h5-color: #BB86FC;
   --h6-color: #BB86FC;
+
+  --bold-color: #BB86FC;
+  --italic-color: #BB86FC;
 }
 
 .markdown-source-view, .markdown-preview-view {
