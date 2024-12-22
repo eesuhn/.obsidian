@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faa16c897ab43a16",
+        "id": "86bd50bfae184d19",
         "type": "tabs",
         "children": [
           {
-            "id": "456cec766d4871d2",
+            "id": "8f484372bfd29240",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,22 +58,13 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "502cb20c3f06cf57",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2df0b9954a1d3cf7",
@@ -97,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -110,7 +102,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "456cec766d4871d2",
+  "active": "8f484372bfd29240",
   "lastOpenFiles": [
   ]
 }
