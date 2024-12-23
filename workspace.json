@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86bd50bfae184d19",
+        "id": "aa99151daeab5257",
         "type": "tabs",
         "children": [
           {
-            "id": "8f484372bfd29240",
+            "id": "b429d43c24b08887",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,15 +31,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ff349333cf6edaf",
+            "id": "c4250d5da0428b2b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -71,17 +69,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dcaa648f34e52e34",
+        "id": "6ab1a8f0c5c0d4b8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4250d5da0428b2b",
+            "id": "0ff349333cf6edaf",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -94,15 +94,12 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "terminal:Open terminal": false
     }
   },
-  "active": "8f484372bfd29240",
+  "active": "b429d43c24b08887",
   "lastOpenFiles": [
   ]
 }
